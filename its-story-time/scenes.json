@@ -1,0 +1,2670 @@
+{
+    "c2array": true,
+    "size": [
+        28,
+        31,
+        1
+    ],
+    "data": [
+        [
+            [
+                "TITLE-EN"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "MORNING"
+            ],
+            [
+                "SHOP"
+            ],
+            [
+                "LAUNDRY"
+            ],
+            [
+                "BANK"
+            ],
+            [
+                "DATE"
+            ],
+            [
+                "DRAGON"
+            ],
+            [
+                "TOILET"
+            ],
+            [
+                "HANGOVER"
+            ],
+            [
+                "BATH"
+            ],
+            [
+                "CAMPING"
+            ],
+            [
+                "BEAUTY SHOP"
+            ],
+            [
+                "CRIME SCENE"
+            ],
+            [
+                "BREAKFAST"
+            ],
+            [
+                "POLICE"
+            ],
+            [
+                "BEACH"
+            ],
+            [
+                "BACKYARD BBQ"
+            ],
+            [
+                "VAMPIRE"
+            ],
+            [
+                "CAR TROUBLE"
+            ],
+            [
+                "DINNER"
+            ],
+            [
+                "GYM"
+            ],
+            [
+                "DOCTOR"
+            ],
+            [
+                "FISHING"
+            ],
+            [
+                "CHRISTMAS"
+            ],
+            [
+                "MAKEOVER"
+            ],
+            [
+                "OFFICE"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-EN"
+            ],
+            [
+                "TUTORIAL"
+            ]
+        ],
+        [
+            [
+                "TASK-EN"
+            ],
+            [
+                "Make breakfast!"
+            ],
+            [
+                "Wake up!"
+            ],
+            [
+                "Buy groceries!"
+            ],
+            [
+                "Freshen up!"
+            ],
+            [
+                "Rob a bank!"
+            ],
+            [
+                "Arrange a perfect date!"
+            ],
+            [
+                "Save the princess!"
+            ],
+            [
+                "Use the toilet!"
+            ],
+            [
+                "Clean up after the party!"
+            ],
+            [
+                "Take a bath!"
+            ],
+            [
+                "Go camping!"
+            ],
+            [
+                "Beauty shop"
+            ],
+            [
+                "Solve the crime!"
+            ],
+            [
+                "Make breakfast!"
+            ],
+            [
+                "Find a thief!"
+            ],
+            [
+                "On the beach"
+            ],
+            [
+                "Backyard barbeque"
+            ],
+            [
+                "Defeat Dracula!"
+            ],
+            [
+                "Fix the car!"
+            ],
+            [
+                "Make dinner!"
+            ],
+            [
+                "Build muscles!"
+            ],
+            [
+                "Visit a doctor!"
+            ],
+            [
+                "Catch some fish!"
+            ],
+            [
+                "Get ready for Christmas!"
+            ],
+            [
+                "Buy new clothes!"
+            ],
+            [
+                "Do some work!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-EN"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-RU"
+            ],
+            [
+                "ПИЦЦА"
+            ],
+            [
+                "УТРО"
+            ],
+            [
+                "В МАГАЗИНЕ"
+            ],
+            [
+                "СТИРКА"
+            ],
+            [
+                "БАНК"
+            ],
+            [
+                "СВИДАНИЕ"
+            ],
+            [
+                "ДРАКОН"
+            ],
+            [
+                "ТУАЛЕТ"
+            ],
+            [
+                "ПОХМЕЛЬЕ"
+            ],
+            [
+                "ВАННА"
+            ],
+            [
+                "В ЛЕСУ"
+            ],
+            [
+                "САЛОН КРАСОТЫ"
+            ],
+            [
+                "ПРЕСТУПЛЕНИЕ"
+            ],
+            [
+                "ЗАВТРАК"
+            ],
+            [
+                "В ПОЛИЦИИ"
+            ],
+            [
+                "ПЛЯЖ"
+            ],
+            [
+                "БАРБЕКЮ"
+            ],
+            [
+                "ВАМПИР"
+            ],
+            [
+                "АВТОМОБИЛЬ"
+            ],
+            [
+                "УЖИН"
+            ],
+            [
+                "СПОРТЗАЛ"
+            ],
+            [
+                "У ДОКТОРА"
+            ],
+            [
+                "РЫБАЛКА"
+            ],
+            [
+                "РОЖДЕСТВО"
+            ],
+            [
+                "МАГАЗИН"
+            ],
+            [
+                "ОФИС"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-RU"
+            ],
+            [
+                "ОБУЧЕНИЕ"
+            ]
+        ],
+        [
+            [
+                "TASK-RU"
+            ],
+            [
+                "Приготовь пиццу!"
+            ],
+            [
+                "Просыпайся!"
+            ],
+            [
+                "Купи продукты!"
+            ],
+            [
+                "Приведи себя в порядок!"
+            ],
+            [
+                "Ограбь банк!"
+            ],
+            [
+                "Организуй свидание!"
+            ],
+            [
+                "Спаси принцессу!"
+            ],
+            [
+                "Сходи в туалет!"
+            ],
+            [
+                "Приберись после вечеринки!"
+            ],
+            [
+                "Прими ванну!"
+            ],
+            [
+                "Организуй пикник!"
+            ],
+            [
+                "Салон красоты"
+            ],
+            [
+                "Раскрой преступление!"
+            ],
+            [
+                "Приготовь завтрак!"
+            ],
+            [
+                "Найди вора!"
+            ],
+            [
+                "На пляже"
+            ],
+            [
+                "Барбекю во дворе"
+            ],
+            [
+                "Разберись с Дракулой!"
+            ],
+            [
+                "Почини автомобиль!"
+            ],
+            [
+                "Приготовь ужин!"
+            ],
+            [
+                "Накачай мышцы!"
+            ],
+            [
+                "Вылечись!"
+            ],
+            [
+                "Налови рыбы!"
+            ],
+            [
+                "Приготовься к Рождеству!"
+            ],
+            [
+                "Смени имидж!"
+            ],
+            [
+                "Поработай!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-RU"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-FR"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "MATIN"
+            ],
+            [
+                "BOUTIQUE"
+            ],
+            [
+                "BLANCHISSERIE"
+            ],
+            [
+                "BANQUE"
+            ],
+            [
+                "RENDEZ-VOUS"
+            ],
+            [
+                "DRAGON"
+            ],
+            [
+                "TOILETTES"
+            ],
+            [
+                "GUEULE DE BOIS"
+            ],
+            [
+                "BAIN"
+            ],
+            [
+                "CAMPING"
+            ],
+            [
+                "SALON BEAUTÉ"
+            ],
+            [
+                "CRIME"
+            ],
+            [
+                "PETIT-DÉJEUNER"
+            ],
+            [
+                "POLICE"
+            ],
+            [
+                "PLAGE"
+            ],
+            [
+                "BARBECUE"
+            ],
+            [
+                "VAMPIRE"
+            ],
+            [
+                "VOITURE"
+            ],
+            [
+                "DÎNER"
+            ],
+            [
+                "GYM"
+            ],
+            [
+                "DOCTEUR"
+            ],
+            [
+                "PÊCHE"
+            ],
+            [
+                "NOËL"
+            ],
+            [
+                "BOUTIQUE"
+            ],
+            [
+                "BUREAU"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-FR"
+            ],
+            [
+                "TUTORIEL"
+            ]
+        ],
+        [
+            [
+                "TASK-FR"
+            ],
+            [
+                "Préparez à manger !"
+            ],
+            [
+                "Réveillez-vous !"
+            ],
+            [
+                "Faites les courses !"
+            ],
+            [
+                "Rafraîchissez-vous !"
+            ],
+            [
+                "Braquez une banque !"
+            ],
+            [
+                "Préparez un rendez-vous !"
+            ],
+            [
+                "Sauvez une princesse !"
+            ],
+            [
+                "Allez aux toilettes !"
+            ],
+            [
+                "Nettoyez après la fête !"
+            ],
+            [
+                "Prenez un bain !"
+            ],
+            [
+                "Allez camper !"
+            ],
+            [
+                "Salon de beauté"
+            ],
+            [
+                "Résolvez le crime !"
+            ],
+            [
+                "Préparez à manger !"
+            ],
+            [
+                "Trouvez un voleur !"
+            ],
+            [
+                "Sur la plage"
+            ],
+            [
+                "Barbecue dans le jardin"
+            ],
+            [
+                "Battez Dracula !"
+            ],
+            [
+                "Réparez la voiture !"
+            ],
+            [
+                "Préparez le dîner !"
+            ],
+            [
+                "Musclez-vous !"
+            ],
+            [
+                "Allez chez le docteur !"
+            ],
+            [
+                "Attrapez des poissons !"
+            ],
+            [
+                "Préparez-vous pour Noël !"
+            ],
+            [
+                "Achetez des vêtements !"
+            ],
+            [
+                "Travaillez !"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-FR"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-DE"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "MORGEN"
+            ],
+            [
+                "LADEN"
+            ],
+            [
+                "WÄSCHE"
+            ],
+            [
+                "BANK"
+            ],
+            [
+                "RENDEZVOUS"
+            ],
+            [
+                "DRACHEN"
+            ],
+            [
+                "TOILETTE"
+            ],
+            [
+                "KATERSTIMMUNG"
+            ],
+            [
+                "BAD"
+            ],
+            [
+                "ZELTEN"
+            ],
+            [
+                "FRISEURSALON"
+            ],
+            [
+                "VERBRECHEN"
+            ],
+            [
+                "FRÜHSTÜCK"
+            ],
+            [
+                "POLIZEI"
+            ],
+            [
+                "STRAND"
+            ],
+            [
+                "GRILLEN"
+            ],
+            [
+                "VAMPIR"
+            ],
+            [
+                "AUTOPANNE"
+            ],
+            [
+                "MITTAGESSEN"
+            ],
+            [
+                "MUCKIBUDE"
+            ],
+            [
+                "ARZT"
+            ],
+            [
+                "FISCHEN"
+            ],
+            [
+                "WEIHNACHTEN"
+            ],
+            [
+                "LADEN"
+            ],
+            [
+                "BÜRO"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-DE"
+            ],
+            [
+                "TUTORIAL"
+            ]
+        ],
+        [
+            [
+                "TASK-DE"
+            ],
+            [
+                "Mache Frühstück!"
+            ],
+            [
+                "Wache auf!"
+            ],
+            [
+                "Kaufe ein!"
+            ],
+            [
+                "Mach dich frisch!"
+            ],
+            [
+                "Raube eine Bank aus!"
+            ],
+            [
+                "Arrangiere ein Date!"
+            ],
+            [
+                "Rette eine Prinzessin!"
+            ],
+            [
+                "Geh auf die Toilette!"
+            ],
+            [
+                "Räume nach der Party auf!"
+            ],
+            [
+                "Nimm ein Bad!"
+            ],
+            [
+                "Geh zelten!"
+            ],
+            [
+                "Friseursalon"
+            ],
+            [
+                "Löse das Verbrechen"
+            ],
+            [
+                "Mache Frühstück!"
+            ],
+            [
+                "Finde einen Dieb!"
+            ],
+            [
+                "Am Strand"
+            ],
+            [
+                "Grillen im Hinterhof"
+            ],
+            [
+                "Besiege Dracula!"
+            ],
+            [
+                "Repariere das Auto!"
+            ],
+            [
+                "Mache Mittagessen!"
+            ],
+            [
+                "Baue Muskeln auf!"
+            ],
+            [
+                "Suche einen Arzt auf!"
+            ],
+            [
+                "Fange ein paar Fische!"
+            ],
+            [
+                "Bereite Weihnachten vor!"
+            ],
+            [
+                "Kaufe neue Kleidung!"
+            ],
+            [
+                "Arbeite ein bisschen!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-DE"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-ZH"
+            ],
+            [
+                "比萨"
+            ],
+            [
+                "早晨"
+            ],
+            [
+                "商店"
+            ],
+            [
+                "洗衣店"
+            ],
+            [
+                "银行"
+            ],
+            [
+                "约会"
+            ],
+            [
+                "龙"
+            ],
+            [
+                "洗手间"
+            ],
+            [
+                "宿醉"
+            ],
+            [
+                "沐浴"
+            ],
+            [
+                "露营"
+            ],
+            [
+                "美容院"
+            ],
+            [
+                "犯罪现场"
+            ],
+            [
+                "早餐"
+            ],
+            [
+                "警察"
+            ],
+            [
+                "海滩"
+            ],
+            [
+                "户外烧烤"
+            ],
+            [
+                "吸血鬼"
+            ],
+            [
+                "汽车"
+            ],
+            [
+                "晚餐"
+            ],
+            [
+                "健身房"
+            ],
+            [
+                "诊所"
+            ],
+            [
+                "垂钓园"
+            ],
+            [
+                "圣诞节"
+            ],
+            [
+                "商店"
+            ],
+            [
+                "办公室"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-ZH"
+            ],
+            [
+                "教程"
+            ]
+        ],
+        [
+            [
+                "TASK-ZH"
+            ],
+            [
+                "做早餐！"
+            ],
+            [
+                "醒醒！"
+            ],
+            [
+                "采购杂货！"
+            ],
+            [
+                "梳洗一番！"
+            ],
+            [
+                "抢劫银行！"
+            ],
+            [
+                "安排约会！"
+            ],
+            [
+                "拯救公主！"
+            ],
+            [
+                "使用洗手间！"
+            ],
+            [
+                "在派对结束后打扫！"
+            ],
+            [
+                "洗个澡！"
+            ],
+            [
+                "去露营！"
+            ],
+            [
+                "美容院"
+            ],
+            [
+                "破案！"
+            ],
+            [
+                "做早餐！"
+            ],
+            [
+                "抓到小偷！"
+            ],
+            [
+                "在海滩上"
+            ],
+            [
+                "后院烧烤"
+            ],
+            [
+                "打败德古拉！"
+            ],
+            [
+                "修理汽车！"
+            ],
+            [
+                "做晚餐！"
+            ],
+            [
+                "锻炼肌肉！"
+            ],
+            [
+                "找医生看病！"
+            ],
+            [
+                "抓点鱼！"
+            ],
+            [
+                "为圣诞节做准备！"
+            ],
+            [
+                "购买新衣服！"
+            ],
+            [
+                "完成一些工作！"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-ZH"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-TW"
+            ],
+            [
+                "比萨"
+            ],
+            [
+                "早晨"
+            ],
+            [
+                "商店"
+            ],
+            [
+                "洗衣店"
+            ],
+            [
+                "銀行"
+            ],
+            [
+                "約會"
+            ],
+            [
+                "龍"
+            ],
+            [
+                "洗手間"
+            ],
+            [
+                "宿醉"
+            ],
+            [
+                "沐浴"
+            ],
+            [
+                "露營"
+            ],
+            [
+                "美容院"
+            ],
+            [
+                "犯罪現場"
+            ],
+            [
+                "早餐"
+            ],
+            [
+                "警察"
+            ],
+            [
+                "海灘"
+            ],
+            [
+                "戶外燒烤"
+            ],
+            [
+                "吸血鬼"
+            ],
+            [
+                "汽車"
+            ],
+            [
+                "晚餐"
+            ],
+            [
+                "健身房"
+            ],
+            [
+                "診所"
+            ],
+            [
+                "垂釣園"
+            ],
+            [
+                "耶誕節"
+            ],
+            [
+                "商店"
+            ],
+            [
+                "辦公室"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-TW"
+            ],
+            [
+                "教程"
+            ]
+        ],
+        [
+            [
+                "TASK-TW"
+            ],
+            [
+                "做早餐！"
+            ],
+            [
+                "醒醒！"
+            ],
+            [
+                "採購雜貨！"
+            ],
+            [
+                "梳洗一番！"
+            ],
+            [
+                "搶劫銀行！"
+            ],
+            [
+                "安排約會！"
+            ],
+            [
+                "拯救公主！"
+            ],
+            [
+                "使用洗手間！"
+            ],
+            [
+                "在派對結束後打掃！"
+            ],
+            [
+                "洗個澡！"
+            ],
+            [
+                "去露營！"
+            ],
+            [
+                "美容院"
+            ],
+            [
+                "破案！"
+            ],
+            [
+                "做早餐！"
+            ],
+            [
+                "抓到小偷！"
+            ],
+            [
+                "在海灘上"
+            ],
+            [
+                "後院燒烤"
+            ],
+            [
+                "打敗德古拉！"
+            ],
+            [
+                "修理汽車！"
+            ],
+            [
+                "做晚餐！"
+            ],
+            [
+                "鍛鍊肌肉！"
+            ],
+            [
+                "找醫生看病！"
+            ],
+            [
+                "抓點魚！"
+            ],
+            [
+                "為耶誕節做準備！"
+            ],
+            [
+                "購買新衣服！"
+            ],
+            [
+                "完成一些工作！"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-TW"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-IT"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "MATTINA"
+            ],
+            [
+                "NEGOZIO"
+            ],
+            [
+                "BUCATO"
+            ],
+            [
+                "BANCA"
+            ],
+            [
+                "APPUNTAMENTO"
+            ],
+            [
+                "DRAGO"
+            ],
+            [
+                "GABINETTO"
+            ],
+            [
+                "DOPO-SBORNIA"
+            ],
+            [
+                "BAGNO"
+            ],
+            [
+                "CAMPEGGIO"
+            ],
+            [
+                "ESTETISTA"
+            ],
+            [
+                "CSI"
+            ],
+            [
+                "COLAZIONE"
+            ],
+            [
+                "POLIZIA"
+            ],
+            [
+                "SPIAGGIA"
+            ],
+            [
+                "BARBEQUE"
+            ],
+            [
+                "VAMPIRO"
+            ],
+            [
+                "MACCHINA"
+            ],
+            [
+                "CENA"
+            ],
+            [
+                "PALESTRA"
+            ],
+            [
+                "DOTTORE"
+            ],
+            [
+                "PESCA"
+            ],
+            [
+                "NATALE"
+            ],
+            [
+                "NEGOZIO"
+            ],
+            [
+                "UFFICIO"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-IT"
+            ],
+            [
+                "TUTORIAL"
+            ]
+        ],
+        [
+            [
+                "TASK-IT"
+            ],
+            [
+                "Prepara la colazione!"
+            ],
+            [
+                "Sveglia!"
+            ],
+            [
+                "Fai la spesa!"
+            ],
+            [
+                "Dai una rinfrescata!"
+            ],
+            [
+                "Rapina una banca!"
+            ],
+            [
+                "Organizza un incontro!"
+            ],
+            [
+                "Salva una principessa!"
+            ],
+            [
+                "Usa il gabinetto!"
+            ],
+            [
+                "Pulisci dopo la festa!"
+            ],
+            [
+                "Fai un bagno!"
+            ],
+            [
+                "Vai in campeggio!"
+            ],
+            [
+                "Estetista"
+            ],
+            [
+                "Risolvi il crimine!"
+            ],
+            [
+                "Prepara la colazione!"
+            ],
+            [
+                "Trova un ladro!"
+            ],
+            [
+                "Sulla spiaggia"
+            ],
+            [
+                "Barbeque nel cortile"
+            ],
+            [
+                "Sconfiggi Dracula!"
+            ],
+            [
+                "Ripara l’auto!"
+            ],
+            [
+                "Prepara la cena!"
+            ],
+            [
+                "Aumenta i muscoli!"
+            ],
+            [
+                "Vai da un dottore!"
+            ],
+            [
+                "Prendi qualche pesce!"
+            ],
+            [
+                "Preparati per Natale!"
+            ],
+            [
+                "Compra nuovi vestiti!"
+            ],
+            [
+                "Lavora un po’!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-IT"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-JA"
+            ],
+            [
+                "ピザ"
+            ],
+            [
+                "朝"
+            ],
+            [
+                "お店"
+            ],
+            [
+                "洗濯"
+            ],
+            [
+                "銀行"
+            ],
+            [
+                "デート"
+            ],
+            [
+                "ドラゴン"
+            ],
+            [
+                "お手洗い"
+            ],
+            [
+                "二日酔い"
+            ],
+            [
+                "お風呂"
+            ],
+            [
+                "キャンプ"
+            ],
+            [
+                "美容院"
+            ],
+            [
+                "犯罪シーン"
+            ],
+            [
+                "朝ご飯"
+            ],
+            [
+                "警察"
+            ],
+            [
+                "ビーチ"
+            ],
+            [
+                "バーベキュー"
+            ],
+            [
+                "吸血鬼"
+            ],
+            [
+                "車"
+            ],
+            [
+                "夕ご飯"
+            ],
+            [
+                "ジム"
+            ],
+            [
+                "ドクター"
+            ],
+            [
+                "釣り"
+            ],
+            [
+                "クリスマス"
+            ],
+            [
+                "お店"
+            ],
+            [
+                "オフィス"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-JA"
+            ],
+            [
+                "チュートリアル"
+            ]
+        ],
+        [
+            [
+                "TASK-JA"
+            ],
+            [
+                "朝ご飯を作る！"
+            ],
+            [
+                "起きて！"
+            ],
+            [
+                "食料品を買う！"
+            ],
+            [
+                "顔を洗ってさっぱりする！"
+            ],
+            [
+                "銀行を強盗する！"
+            ],
+            [
+                "デートを設定する！"
+            ],
+            [
+                "お姫様を救う！"
+            ],
+            [
+                "お手洗いに行く！"
+            ],
+            [
+                "パーティーの後片付けをする！"
+            ],
+            [
+                "お風呂に入る！"
+            ],
+            [
+                "キャンプに行く！"
+            ],
+            [
+                "美容院"
+            ],
+            [
+                "犯罪を解決しよう！"
+            ],
+            [
+                "朝ご飯を作る！"
+            ],
+            [
+                "泥棒を捕まえる！"
+            ],
+            [
+                "ビーチにて"
+            ],
+            [
+                "裏庭でバーベキュー"
+            ],
+            [
+                "吸血鬼を倒す！"
+            ],
+            [
+                "車を修理する！"
+            ],
+            [
+                "夕ご飯を作る！"
+            ],
+            [
+                "筋肉を鍛える！"
+            ],
+            [
+                "ドクターを訪問する！"
+            ],
+            [
+                "魚を釣る！"
+            ],
+            [
+                "クリスマスに備える！"
+            ],
+            [
+                "新しい服を買う！"
+            ],
+            [
+                "仕事する！"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-JA"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-KO"
+            ],
+            [
+                "피자"
+            ],
+            [
+                "아침"
+            ],
+            [
+                "상점"
+            ],
+            [
+                "빨래"
+            ],
+            [
+                "은행"
+            ],
+            [
+                "데이트"
+            ],
+            [
+                "용"
+            ],
+            [
+                "화장실"
+            ],
+            [
+                "숙취"
+            ],
+            [
+                "목욕"
+            ],
+            [
+                "캠핑"
+            ],
+            [
+                "미용실"
+            ],
+            [
+                "범죄 현장"
+            ],
+            [
+                "아침 식사"
+            ],
+            [
+                "경찰"
+            ],
+            [
+                "해변"
+            ],
+            [
+                "바비큐"
+            ],
+            [
+                "뱀파이어"
+            ],
+            [
+                "차"
+            ],
+            [
+                "저녁 식사"
+            ],
+            [
+                "헬스장"
+            ],
+            [
+                "병원"
+            ],
+            [
+                "낚시"
+            ],
+            [
+                "크리스마스"
+            ],
+            [
+                "가게"
+            ],
+            [
+                "사무실"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-KO"
+            ],
+            [
+                "훈련"
+            ]
+        ],
+        [
+            [
+                "TASK-KO"
+            ],
+            [
+                "아침을 만드세요!"
+            ],
+            [
+                "일어나세요!"
+            ],
+            [
+                "장을 보세요!"
+            ],
+            [
+                "몸을 단장하세요!"
+            ],
+            [
+                "은행을 터세요!"
+            ],
+            [
+                "데이트 약속을 잡으세요!"
+            ],
+            [
+                "공주를 구하세요!"
+            ],
+            [
+                "화장실을 쓰세요!"
+            ],
+            [
+                "파티 뒷정리를 하세요!"
+            ],
+            [
+                "목욕을 하세요!"
+            ],
+            [
+                "캠핑을 가세요!"
+            ],
+            [
+                "미용실"
+            ],
+            [
+                "범죄를 해결하세요!"
+            ],
+            [
+                "아침을 만드세요!"
+            ],
+            [
+                "도둑을 잡으세요!"
+            ],
+            [
+                "해변에서"
+            ],
+            [
+                "뒷마당 바비큐"
+            ],
+            [
+                "드라큘라를 처치하세요!"
+            ],
+            [
+                "차를 고치세요!"
+            ],
+            [
+                "저녁을 만드세요!"
+            ],
+            [
+                "근육을 키우세요!"
+            ],
+            [
+                "병원에 가세요!"
+            ],
+            [
+                "물고기를 잡으세요!"
+            ],
+            [
+                "크리스마스를 준비하세요!"
+            ],
+            [
+                "새 옷을 사세요!"
+            ],
+            [
+                "일을 하세요!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-KO"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-PT"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "MANHÃ"
+            ],
+            [
+                "LOJA"
+            ],
+            [
+                "LAVANDERIA"
+            ],
+            [
+                "BANCO"
+            ],
+            [
+                "ENCONTRO"
+            ],
+            [
+                "DAGRÃO"
+            ],
+            [
+                "BANHEIRO"
+            ],
+            [
+                "RESSACA"
+            ],
+            [
+                "BANHO"
+            ],
+            [
+                "ACAMPAMENTO"
+            ],
+            [
+                "LOJA DE BELEZA"
+            ],
+            [
+                "CRIME"
+            ],
+            [
+                "CAFÉ DA MANHÃ"
+            ],
+            [
+                "POLÍCIA"
+            ],
+            [
+                "PRAIA"
+            ],
+            [
+                "CHURRASCO"
+            ],
+            [
+                "VAMPIRO"
+            ],
+            [
+                "CARRO"
+            ],
+            [
+                "JANTAR"
+            ],
+            [
+                "ACADEMIA"
+            ],
+            [
+                "MÉDICO"
+            ],
+            [
+                "PESCARIA"
+            ],
+            [
+                "NATAL"
+            ],
+            [
+                "LOJA"
+            ],
+            [
+                "ESCRITÓRIO"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-PT"
+            ],
+            [
+                "TUTORIAL"
+            ]
+        ],
+        [
+            [
+                "TASK-PT"
+            ],
+            [
+                "Faça café da manhã!"
+            ],
+            [
+                "Acorde!"
+            ],
+            [
+                "Faça as compras!"
+            ],
+            [
+                "Ajeite-se!"
+            ],
+            [
+                "Roube um banco!"
+            ],
+            [
+                "Vá num encontro!"
+            ],
+            [
+                "Salve a princesa!"
+            ],
+            [
+                "Use o banheiro!"
+            ],
+            [
+                "Limpe a bagunça!"
+            ],
+            [
+                "Tome banho!"
+            ],
+            [
+                "Vá acampar!"
+            ],
+            [
+                "Loja de Beleza"
+            ],
+            [
+                "Resolva o crime!"
+            ],
+            [
+                "Faça café da manhã!"
+            ],
+            [
+                "Encontre o ladrão!"
+            ],
+            [
+                "Na praia"
+            ],
+            [
+                "Churrasco no quintal"
+            ],
+            [
+                "Derrote o Drácula!"
+            ],
+            [
+                "Conserte o carro!"
+            ],
+            [
+                "Faça o jantar!"
+            ],
+            [
+                "Ganhe músculo!"
+            ],
+            [
+                "Visite o médico!"
+            ],
+            [
+                "Pegue peixe!"
+            ],
+            [
+                "Prepare-se para o Natal!"
+            ],
+            [
+                "Compre roupas novas!"
+            ],
+            [
+                "Trabalhe!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-PT"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-ES"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "MAÑANA"
+            ],
+            [
+                "TIENDA"
+            ],
+            [
+                "LAVANDERÍA"
+            ],
+            [
+                "BANCO"
+            ],
+            [
+                "FECHA"
+            ],
+            [
+                "DRAGÓN"
+            ],
+            [
+                "BAÑO"
+            ],
+            [
+                "RESACA"
+            ],
+            [
+                "BAÑO"
+            ],
+            [
+                "ACAMPAR"
+            ],
+            [
+                "SALÓN DE BELLEZA"
+            ],
+            [
+                "CRIMEN"
+            ],
+            [
+                "DESAYUNO"
+            ],
+            [
+                "POLICÍA"
+            ],
+            [
+                "PLAYA"
+            ],
+            [
+                "ASADOR"
+            ],
+            [
+                "VAMPIRO"
+            ],
+            [
+                "AUTO"
+            ],
+            [
+                "CENA"
+            ],
+            [
+                "GIMNASIO"
+            ],
+            [
+                "MÉDICO"
+            ],
+            [
+                "PESCA"
+            ],
+            [
+                "NAVIDAD"
+            ],
+            [
+                "TIENDA"
+            ],
+            [
+                "OFICINA"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-ES"
+            ],
+            [
+                "TUTORIAL"
+            ]
+        ],
+        [
+            [
+                "TASK-ES"
+            ],
+            [
+                "¡Haz el desayuno!"
+            ],
+            [
+                "¡Despierta!"
+            ],
+            [
+                "¡Compra víveres!"
+            ],
+            [
+                "¡Refréscate!"
+            ],
+            [
+                "¡Asalta un banco!"
+            ],
+            [
+                "¡Concierta una cita!"
+            ],
+            [
+                "¡Salva a una princesa!"
+            ],
+            [
+                "¡Usa el baño!"
+            ],
+            [
+                "¡Limpia tras la fiesta!"
+            ],
+            [
+                "¡Date una ducha!"
+            ],
+            [
+                "¡Ve a acampar!"
+            ],
+            [
+                "Salón de belleza"
+            ],
+            [
+                "¡Resuelve el crimen!"
+            ],
+            [
+                "¡Haz el desayuno!"
+            ],
+            [
+                "¡Encuentra a un ladrón!"
+            ],
+            [
+                "En la playa"
+            ],
+            [
+                "Asador en el jardín"
+            ],
+            [
+                "¡Vence a Drácula!"
+            ],
+            [
+                "¡Arregla el auto!"
+            ],
+            [
+                "¡Haz la cena!"
+            ],
+            [
+                "¡Fortalece los músculos!"
+            ],
+            [
+                "¡Consulta a un médico!"
+            ],
+            [
+                "¡Atrapa algunos peces!"
+            ],
+            [
+                "¡Prepárate para Navidad!"
+            ],
+            [
+                "¡Compra ropa nueva!"
+            ],
+            [
+                "¡Trabaja un poco!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-ES"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-TR"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "SABAH"
+            ],
+            [
+                "MAĞAZA"
+            ],
+            [
+                "ÇAMAŞIRHANE"
+            ],
+            [
+                "BANKA"
+            ],
+            [
+                "TARİH"
+            ],
+            [
+                "EJDERHA"
+            ],
+            [
+                "TUVALET"
+            ],
+            [
+                "AKŞAMDAN KALMA"
+            ],
+            [
+                "BANYO"
+            ],
+            [
+                "KAMP"
+            ],
+            [
+                "KUAFÖR"
+            ],
+            [
+                "OLAY YERİ"
+            ],
+            [
+                "KAHVALTI"
+            ],
+            [
+                "POLİS"
+            ],
+            [
+                "PLAJ"
+            ],
+            [
+                "BARBEKÜ"
+            ],
+            [
+                "VAMPİR"
+            ],
+            [
+                "ARABA"
+            ],
+            [
+                "AKŞAM YEMEĞİ"
+            ],
+            [
+                "SPOR SALONU"
+            ],
+            [
+                "DOKTOR"
+            ],
+            [
+                "BALIKÇILIK"
+            ],
+            [
+                "YILBAŞI"
+            ],
+            [
+                "MAĞAZA"
+            ],
+            [
+                "OFİS"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-TR"
+            ],
+            [
+                "TUTORIAL"
+            ]
+        ],
+        [
+            [
+                "TASK-TR"
+            ],
+            [
+                "Kahvaltı hazırla!"
+            ],
+            [
+                "Uyan!"
+            ],
+            [
+                "Market alışverişi yap!"
+            ],
+            [
+                "Kendine çeki düzen ver!"
+            ],
+            [
+                "Banka soy!"
+            ],
+            [
+                "Randevu ayarla!"
+            ],
+            [
+                "Bir prensesi kurtar!"
+            ],
+            [
+                "Tuvaleti kullan!"
+            ],
+            [
+                "Partiden sonra temizle!"
+            ],
+            [
+                "Banyo yap!"
+            ],
+            [
+                "Kampa git!"
+            ],
+            [
+                "Kuaför"
+            ],
+            [
+                "Suçu çöz!"
+            ],
+            [
+                "Kahvaltı hazırla!"
+            ],
+            [
+                "Bir hırsız bul!"
+            ],
+            [
+                "Plajda"
+            ],
+            [
+                "Arka bahçede barbekü"
+            ],
+            [
+                "Drakula'yı yen!"
+            ],
+            [
+                "Arabayı tamir et!"
+            ],
+            [
+                "Akşam yemeği hazırla!"
+            ],
+            [
+                "Kaslarını geliştir!"
+            ],
+            [
+                "Doktora git!"
+            ],
+            [
+                "Balık tut!"
+            ],
+            [
+                "Yılbaşına hazırlan!"
+            ],
+            [
+                "Yeni kıyafetler al!"
+            ],
+            [
+                "Biraz iş yap!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-TR"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-VI"
+            ],
+            [
+                "PIZZA"
+            ],
+            [
+                "BUỔI SÁNG"
+            ],
+            [
+                "CỬA HÀNG"
+            ],
+            [
+                "GIẶT ỦI"
+            ],
+            [
+                "NGÂN HÀNG"
+            ],
+            [
+                "HẸN HÒ"
+            ],
+            [
+                "RỒNG"
+            ],
+            [
+                "NHÀ VỆ SINH"
+            ],
+            [
+                "SAY XỈN"
+            ],
+            [
+                "TẮM RỬA"
+            ],
+            [
+                "CẮM TRẠI"
+            ],
+            [
+                "TIỆM MỸ PHẨM"
+            ],
+            [
+                "TỘI ÁC"
+            ],
+            [
+                "BỮA SÁNG"
+            ],
+            [
+                "CẢNH SÁT"
+            ],
+            [
+                "BÃI BIỂN"
+            ],
+            [
+                "BBQ"
+            ],
+            [
+                "MA CÀ RỒNG"
+            ],
+            [
+                "XE HƠI"
+            ],
+            [
+                "BỮA TỐI"
+            ],
+            [
+                "PHÒNG TẬP"
+            ],
+            [
+                "PHÒNG KHÁM"
+            ],
+            [
+                "CÂU CÁ"
+            ],
+            [
+                "GIÁNG SINH"
+            ],
+            [
+                "CỬA HÀNG"
+            ],
+            [
+                "VĂN PHÒNG"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-VI"
+            ],
+            [
+                "HƯỚNG DẪN"
+            ]
+        ],
+        [
+            [
+                "TASK-VI"
+            ],
+            [
+                "Làm bữa sáng thôi!"
+            ],
+            [
+                "Dậy đi nào!"
+            ],
+            [
+                "Mua đồ linh tinh!"
+            ],
+            [
+                "Tút tát lại nào!"
+            ],
+            [
+                "Cướp ngân hàng!"
+            ],
+            [
+                "Chuẩn bị hẹn hò!"
+            ],
+            [
+                "Bảo vệ công chúa!"
+            ],
+            [
+                "Đi vệ sinh thôi!"
+            ],
+            [
+                "Dọn dẹp sau bữa tiệc!"
+            ],
+            [
+                "Đi tắm nào!"
+            ],
+            [
+                "Cắm trại nhé!"
+            ],
+            [
+                "Làm đẹp"
+            ],
+            [
+                "Xử lý tội ác!"
+            ],
+            [
+                "Làm bữa sáng thôi!"
+            ],
+            [
+                "Tìm kẻ trộm!"
+            ],
+            [
+                "Trên bãi biển"
+            ],
+            [
+                "Nướng thịt ở sân sau"
+            ],
+            [
+                "Đánh bại Dracula!"
+            ],
+            [
+                "Sửa xe thôi!"
+            ],
+            [
+                "Nấu bữa tối thôi!"
+            ],
+            [
+                "Luyện cơ bắp nào!"
+            ],
+            [
+                "Ghé thăm bác sĩ!"
+            ],
+            [
+                "Tóm mấy chú cá nào!"
+            ],
+            [
+                "Sẵn sàng cho Giáng Sinh!"
+            ],
+            [
+                "Mua quần áo mới thôi!"
+            ],
+            [
+                "Làm việc nghiêm túc nào!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-VI"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "TITLE-HI"
+            ],
+            [
+                "पिज़्ज़ा"
+            ],
+            [
+                "सुबह"
+            ],
+            [
+                "शॉप"
+            ],
+            [
+                "लॉण्ड्री"
+            ],
+            [
+                "बैंक"
+            ],
+            [
+                "तारीख"
+            ],
+            [
+                "ड्रैगन"
+            ],
+            [
+                "शौचालय"
+            ],
+            [
+                "नशा"
+            ],
+            [
+                "नहाना"
+            ],
+            [
+                "कैम्पिंग"
+            ],
+            [
+                "ब्यूटी शॉप"
+            ],
+            [
+                "क्राइम"
+            ],
+            [
+                "नाश्ता"
+            ],
+            [
+                "पुलिस"
+            ],
+            [
+                "समुद्र-तट"
+            ],
+            [
+                "BBQ"
+            ],
+            [
+                "वैम्पायर"
+            ],
+            [
+                "कार"
+            ],
+            [
+                "डिनर"
+            ],
+            [
+                "जिम"
+            ],
+            [
+                "डॉक्टर"
+            ],
+            [
+                "फिशिंग"
+            ],
+            [
+                "क्रिसमस"
+            ],
+            [
+                "स्टोर"
+            ],
+            [
+                "ऑफिस"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TITLE-HI"
+            ],
+            [
+                "प्रशिक्षण"
+            ]
+        ],
+        [
+            [
+                "TASK-HI"
+            ],
+            [
+                "नाश्ता बनाएं!"
+            ],
+            [
+                "जगें!"
+            ],
+            [
+                "किराने का सामान खरीदें!"
+            ],
+            [
+                "तैयार हो जाएँ!"
+            ],
+            [
+                "बैंक लूटें!"
+            ],
+            [
+                "तारीख निश्चित करें!"
+            ],
+            [
+                "राजकुमारी को बचाएं!"
+            ],
+            [
+                "शौचालय का इस्तेमाल करें!"
+            ],
+            [
+                "पार्टी के बाद सफाई करें!"
+            ],
+            [
+                "स्नान करें!"
+            ],
+            [
+                "कैम्पिंग में जाएँ!"
+            ],
+            [
+                "ब्यूटी शॉप"
+            ],
+            [
+                "क्राइम की गुत्थी सुलझाएं!"
+            ],
+            [
+                "नाश्ता बनाएं!"
+            ],
+            [
+                "चोर को खोजें!"
+            ],
+            [
+                "समुद्र तट पर"
+            ],
+            [
+                "पीछे का बार्बेक्यू"
+            ],
+            [
+                "ड्रैकुला को हराएं!"
+            ],
+            [
+                "कार को ठीक करें!"
+            ],
+            [
+                "डिनर बनाएं!"
+            ],
+            [
+                "ताकत बढ़ाएं!"
+            ],
+            [
+                "डॉक्टर से मिलें!"
+            ],
+            [
+                "कुछ मछली पकड़ें!"
+            ],
+            [
+                "क्रिसमस की तैयारी करें!"
+            ],
+            [
+                "नए कपड़े खरीदें!"
+            ],
+            [
+                "कुछ काम करें!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "TASK-HI"
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}
